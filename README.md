@@ -1,2 +1,1 @@
-# fcc_backend_03_shorten_url
-fcc
+# Backend Challenges boilerplate - package.json
